@@ -1,0 +1,1 @@
+https://github.com/Yara-Rules/rules.git
